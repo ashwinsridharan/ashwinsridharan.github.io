@@ -10,6 +10,8 @@ Below, you will find projects that I am most passionate about are primarily the 
 ---
 
 ### Category Name 1 
+[Quickie](/quick_portfolio)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
