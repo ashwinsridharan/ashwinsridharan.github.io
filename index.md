@@ -1,4 +1,5 @@
-# Portfolio
+# P O R T F O L I O
+## Who am I?
 Hi there! Welcome to my portfolio website. <br>
 I am a graduate student pursuing Information Systems Management at Carnegie Mellon University' 20. 
 I spent this Summer with the German software major SAP as a Product Analytics intern, focussing on their procurement software solution SAP Ariba to generate actionable insights from troves of customer data from the SAP platfor, inspiring tangible business & customer outcomes. 
