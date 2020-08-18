@@ -1,8 +1,6 @@
 title: Ashwin Sridharan # your name (or website title) here
 logo: "/images/dppiclinkedin.jpg?raw=true" # photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-   Graduate Student at Carnegie Mellon' 20
-   <br><br>
    <a href="https://www.linkedin.com/in/ashwinsridharan/">View My LinkedIn Profile</a> 
 
 theme: jekyll-theme-minimal
