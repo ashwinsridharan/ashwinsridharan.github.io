@@ -10,7 +10,7 @@ Below, you will find projects that I am most passionate about are primarily the 
 ---
 
 ### Category Name 1 
-[Quickie](/hello-world)
+[Quickie](/hello-world/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 [Project 1 Title](/sample_page)
