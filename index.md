@@ -1,7 +1,7 @@
 # Portfolio
 Hi there! Welcome to my portfolio website. <br>
 I am a graduate student pursuing Information Systems Management at Carnegie Mellon University' 20. 
-I spent this Summer with the German software major SAP as a Product Analytics intern, focussing on the procurement software solution SAP Ariba. 
+I spent this Summer with the German software major SAP as a Product Analytics intern, focussing on their procurement software solution SAP Ariba to generate actionable insights from troves of customer data from the SAP platfor, inspiring tangible business & customer outcomes. 
 Prior to my masters, I was a part of the Advisory arm of the Big 4 firm Ernst & Young (EY) in India. As a Consultant, I was constantly challenged with business problems of various shapes and sizes of the EY global clientele, which I unraveled through technology, data and building innovative digital products at scale.
 
 Below, you will find projects that I am most passionate about, primarily the ones that fall on the focal point of Business, Data and Products.  
