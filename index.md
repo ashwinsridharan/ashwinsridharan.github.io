@@ -1,4 +1,5 @@
-## Portfolio
+# Portfolio
+Hi there! Welcome to my portfolio website. 
 
 ---
 
@@ -31,3 +32,4 @@
 
 
 ---
+### Publications
