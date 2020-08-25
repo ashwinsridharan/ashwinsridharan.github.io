@@ -12,7 +12,7 @@ I am really passionate about working and managing projects that fall on the foca
 ---
 
 ### Data & Analytics 
-[Pittsburgh,PA Crime Data Analysis](/PghCrimeDataAnalysis/)
+[*Pittsburgh Crime Data Analysis*](/PghCrimeDataAnalysis/)
 <img src="images/crime.jpg?raw=true"/>
 
 [Project 1 Title](/sample_page)
