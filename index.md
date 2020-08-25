@@ -12,8 +12,8 @@ I am really passionate about working and managing projects that fall on the foca
 ---
 
 ### Category Name 1 
-[Quickie](/hello-world/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Quickie](/PghCrimeDataAnalysis/)
+<img src="images/crime.jpg?raw=true"/>
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
