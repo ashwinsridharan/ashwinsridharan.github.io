@@ -24,7 +24,12 @@ This project is all about analyzing Pittsburgh, Pennsylvania Crime data which in
 <img src="images/vdogames.jpg"/>
 
 ---
-[Understanding Consumer Behaviour through Data Mining](/Understanding-consumer-behavior)
+[Understanding Consumer Behaviour through Data Mining](/sample_page)
+
+<img src="images/bank.jpg?raw=true"/>
+
+---
+[Exploring Consumer Behaviour using Predictive Analytics](/Understanding-consumer-behavior)
 
 <img src="images/organic.jpg?raw=true"/>
 
