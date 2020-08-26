@@ -25,6 +25,7 @@ This project is all about analyzing Pittsburgh, Pennsylvania Crime data which in
 
 ---
 [Understanding Consumer Behaviour through Data Mining](/Understanding-consumer-behavior)
+
 <img src="images/organic.jpg?raw=true"/>
 
 ---
