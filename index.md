@@ -16,13 +16,13 @@ I am really passionate about working and managing projects that fall on the foca
 
 <img src="images/crime.jpg?raw=true"/>
 This project is all about analyzing Pittsburgh, Pennsylvania Crime data which includes a number of demographic variables along with the arrest information. The main goal of the project is to conduct exploratory and graphical data analysis in R to discover interesting correlations and hidden patterns in the crime data. Apart from that, hypothesis testing and statistical analysis are conducted to obtain important insights and draw conclusions regarding the safety measures in the city and finally suggest actionable recommendations based on race, gender, location and other crime specifics.
-
+---
 [*Predicting Video Games Sales using Machine Learning*](/sample_page)
 
 <img src="images/vdogames.jpg"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Understanding Consumer Behaviour through Data Mining](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -30,6 +30,7 @@ This project is all about analyzing Pittsburgh, Pennsylvania Crime data which in
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
+[Project 4 Title](/pdf/sample_presentation.pdf)
 
 ### Category Name 2
 
