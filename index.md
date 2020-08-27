@@ -14,7 +14,7 @@ I am really passionate about working and managing projects that fall on the foca
 ### Data & Analytics 
 [*Pittsburgh Crime Data Analysis*](/PghCrimeDataAnalysis/)
 
-<a href=/PghCrimeDataAnalysis/>
+<a href="/PghCrimeDataAnalysis/">
 <img src="images/crime.jpg?raw=true"/>
 </a>
 This project is all about analyzing Pittsburgh, Pennsylvania Crime data which includes a number of demographic variables along with the arrest information. The main goal of the project is to conduct exploratory and graphical data analysis in R to discover interesting correlations and hidden patterns in the crime data. Apart from that, hypothesis testing and statistical analysis are conducted to obtain important insights and draw conclusions regarding the safety measures in the city and finally suggest actionable recommendations based on race, gender, location and other crime specifics.
