@@ -23,17 +23,22 @@ This project is all about analyzing Pittsburgh, Pennsylvania Crime data which in
 
 [*Predicting Video Games Sales using Machine Learning*](/sample_page)
 
+<a href="/sample_page">
 <img src="images/vdogames.jpg"/>
+</a>
 
 ---
 [*Customer Acquisition & Retention through Data Mining*](/Customer-Acq-Ret)
 
+<a href="/Customer-Acq-Ret">
 <img src="images/bank.jpg?raw=true"/>
-
+</a>
 ---
 [*Exploring Consumer Behaviour using Predictive Analytics*](/Understanding-consumer-behavior)
 
+<a href="/Understanding-consumer-behavior">
 <img src="images/organic.jpg?raw=true"/>
+</a>
 
 ---
 [Project 3 Title](http://example.com/)
