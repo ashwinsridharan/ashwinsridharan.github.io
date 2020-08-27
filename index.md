@@ -54,7 +54,7 @@ This project is all about analyzing Pittsburgh, Pennsylvania Crime data which in
 
 
 ---
-### Certifications
+[*CERTIFICATIONS*](/cert_page)
 
         
         
