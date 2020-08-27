@@ -24,12 +24,12 @@ This project is all about analyzing Pittsburgh, Pennsylvania Crime data which in
 <img src="images/vdogames.jpg"/>
 
 ---
-[Customer Acquisition & Retention through Data Mining](/Customer-Acq-Ret)
+[*Customer Acquisition & Retention through Data Mining*](/Customer-Acq-Ret)
 
 <img src="images/bank.jpg?raw=true"/>
 
 ---
-[Exploring Consumer Behaviour using Predictive Analytics](/Understanding-consumer-behavior)
+[*Exploring Consumer Behaviour using Predictive Analytics*](/Understanding-consumer-behavior)
 
 <img src="images/organic.jpg?raw=true"/>
 
@@ -43,14 +43,8 @@ This project is all about analyzing Pittsburgh, Pennsylvania Crime data which in
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 ---
-
-
 
 
 ---
