@@ -33,6 +33,7 @@ This project is all about analyzing Pittsburgh, Pennsylvania Crime data which in
 <a href="/Customer-Acq-Ret">
 <img src="images/bank.jpg?raw=true"/>
 </a>
+
 ---
 [*Exploring Consumer Behaviour using Predictive Analytics*](/Understanding-consumer-behavior)
 
