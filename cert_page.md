@@ -9,6 +9,7 @@
 ### Decision Analytics
 <a href="https://media-exp1.licdn.com/dms/document/C512DAQFSeFbutQpxFQ/profile-treasury-document-pdf-analyzed/0?e=1598652000&v=beta&t=OvTmjwShRE-CrZUBa0bdkTH09bxQgdAUOfzfbIPorfw"><img src="/images/3.jpeg?raw=true"/></a>
 
+
  
 ### Digital Transformation
 <a href="https://media-exp1.licdn.com/dms/document/C512DAQGapsvhAsLvNw/profile-treasury-document-pdf-analyzed/0?e=1598652000&v=beta&t=w-gLqJL5VrKV9Abit6__Tl_s4HOZg1QjRyF6mwmGtco"><img  src="/images/peg.png"/></a>
