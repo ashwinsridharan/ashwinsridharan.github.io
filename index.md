@@ -64,7 +64,7 @@ This project is all about analyzing Pittsburgh, Pennsylvania Crime data which in
          <a href="https://www.youracclaim.com/badges/c33831e3-5cac-4b37-a4b5-88e1267bb05d/linked_in_profile">
               <img src="/images/2.jpg"/ height="200" width="200"/>
           </a>
-          <a href="https://www.qries.com/">
+          <a href=/pdf/sample_presentation.pdf>
          <img src="/images/3.jpeg"/ height="200" width="200"/>
            </a>
           <a href="https://www.qries.com/">
