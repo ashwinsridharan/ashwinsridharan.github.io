@@ -56,17 +56,13 @@ This project is all about analyzing Pittsburgh, Pennsylvania Crime data which in
 ---
 ### Certifications
 
-<div class="row">
-  <div class="column">
-    <img src="1.png" alt="Snow" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="2.jpg" alt="Forest" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="3.jpg" alt="Mountains" style="width:100%">
-  </div>
-   <div class="column">
-    <img src="4.jpg" alt="cert" style="width:100%">
-  </div>
-</div>
+<div class="image1234">
+    <div class="imgcontainer">
+       <a href="https://www.qries.com/">
+        <img src="/images/1.png" height="200" width="200"/>
+         </a>
+              <img src="/images/2.jpg"/ height="200" width="200"/>
+         <img src="/images/3.jpeg"/ height="200" width="200"/>
+         <img src="/images/4.png"/ height="200" width="200"/>
+        
+    </div>
