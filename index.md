@@ -17,7 +17,7 @@ I am deeply passionate about strategizing, developing and managing projects that
 <a href="/PghCrimeDataAnalysis/">
 <img src="images/crime.jpg?raw=true"/>
 </a>
-This project is all about analyzing Pittsburgh, Pennsylvania Crime data which includes a number of demographic variables along with the arrest information. The main goal of the project is to conduct exploratory and graphical data analysis in R to discover interesting correlations and hidden patterns in the crime data. Apart from that, hypothesis testing and statistical analysis are conducted to obtain important insights and draw conclusions regarding the safety measures in the city and finally suggest actionable recommendations based on race, gender, location and other crime specifics.
+This project is all about analyzing crime data of Pittsburgh, Pennsylvania to discover interesting correlations and hidden patterns. The main objective is to obtain important insights enabling us to draw conclusions regarding the safety measures in the city and finally propound actionable recommendations based on race, gender, location and other crime specifics.
 
 ---
 
@@ -26,6 +26,14 @@ This project is all about analyzing Pittsburgh, Pennsylvania Crime data which in
 <a href="/sample_page">
 <img src="images/vdogames.jpg"/>
 </a>
+The video game industry is a rapidly growing industry; in 2018, worldwide video games sales generated revenue of $134.9 billion. Since the recent COVID-19 pandemic has forced people to socially isolate and find activities to do alone, online gaming is seeing record numbers. Given this trend, companies are directing efforts in the development of new games. Game developers who want to capitalize on this growing market would benefit from knowing how best to spend their efforts in order to maximize sales.  Thus, this analysis will be aimed at answering the following business question:
+
+> What are the factors and patterns in successful video games that result in high sales? 
+> How does the user and critic reviews impact the global sales?
+> How does the sales vary between the Americas, Europe & Asia?
+> What are some actionable insights which can be used by both sides of the aisle, creators and publishers, to enhance the user experience and increase the revenue?
+
+In order to find answers to these important business questions, we use a supervised model (decision tree) & an unsupervised model (clustering) after conducting the preliminary data exploration & setting up the initial hypothesis.
 
 ---
 [*Customer Acquisition & Retention through Data Mining*](/Customer-Acq-Ret)
