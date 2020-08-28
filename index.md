@@ -7,7 +7,7 @@ Being a business technologist, I thrive at the intersection of tech and business
 
 Prior to my masters, I was a part of the Advisory arm of the Big 4 firm Ernst & Young (EY) in India, operating in the Financial Services industry. As a Consultant, I was constantly challenged with business problems of various shapes and sizes of the EY global clientele, which I unraveled through technology & data, building innovative digital products at scale.
 
-I am really passionate about working and managing projects that fall on the focal point of Business, Data, People and Products. Below, I have highlighted some of the projects that I have worked on recently for school.  
+I am deeply passionate about strategizing, developing and managing projects that fall on the focal point of Business, Data, Products and People. Below, I have highlighted some of them that I have worked on recently.  
 
 ---
 
