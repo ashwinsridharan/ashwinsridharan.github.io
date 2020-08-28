@@ -5,7 +5,7 @@ My name is Ashwin and I am a graduate student pursuing Information Systems Manag
 <img width= 90 src="images/cmu.png?raw=true"/> 
 </a>
 ## Background
-Being a business technologist, I thrive at the intersection of tech and business and love straddling both worlds. <br><br>
+Being a business technologist, I thrive at the intersection of Tech & Business and love straddling both worlds. <br><br>
  <a href="https://www.sap.com/"><img width= 90 src="images/sap.jpg?raw=true"/></a>  <a href="https://www.ey.com/"><img width= 70 src="images/ey.png?raw=true"/></a> <br>
 I spent the past Summer working with the German software major SAP as a Product Analytics Intern, focussing on their procurement software                                        solution SAP Ariba to generate actionable insights from troves of customer data, inspiring tangible business & customer outcomes. <br>
 
