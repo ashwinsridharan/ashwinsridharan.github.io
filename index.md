@@ -63,6 +63,7 @@ We use a supervised machine learning technique (Classification- Decision Trees) 
 ### Digital Transformation Strategy
 [Future of Tech in Higher-Ed: An Impact Study](http://example.com/)
 <img src="images/collg.jpg?raw=true"/>
+
 Case Study Coming Soon.
 
 [Project 4 Title](/pdf/sample_presentation.pdf)
@@ -70,10 +71,10 @@ Case Study Coming Soon.
 
 ### Agile Project Management
 
-[Project 1 Title](http://example.com/)
+[Scrum & Kanban: An Implementation Study](http://example.com/)
 Case Study Coming Soon.
 
---
+---
 
 [*CERTIFICATIONS*](/cert_page)
 
