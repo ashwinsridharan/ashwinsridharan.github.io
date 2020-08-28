@@ -72,7 +72,7 @@ Case Study Coming Soon.
 
 [Scrum & Kanban: An Implementation Study](http://example.com/)
 
-<img src="images/coll.jpg?raw=true"/>
+<img src="images/agile.jpg?raw=true"/>
 
 Case Study Coming Soon.
 
