@@ -62,7 +62,7 @@ We use a supervised machine learning technique (Classification- Decision Trees) 
 ---
 ### Digital Transformation Strategy
 [Future of Tech in Higher-Ed: An Impact Study](http://example.com/)
-<img src="images/collg.jpg?raw=true"/>
+<img src="images/coll.jpg?raw=true"/>
 
 Case Study Coming Soon.
 
