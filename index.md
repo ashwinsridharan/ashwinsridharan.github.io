@@ -7,7 +7,7 @@ Being a business technologist, I thrive at the intersection of tech and business
 
 Prior to my masters, I was a part of the Advisory arm of the Big 4 firm Ernst & Young (EY) in India, operating in the Financial Services industry. As a Consultant, I was constantly challenged with business problems of various shapes and sizes of the EY global clientele, which I unraveled through technology & data, building innovative digital products at scale.
 
-I am deeply passionate about strategizing, developing and managing projects that fall on the focal point of Business, Data, Products and People. Below, I have highlighted some of them that I have worked on recently.  
+I am deeply passionate about strategizing, developing and managing projects that fall on the focal point of Business, Data, Products and People. Below, I have highlighted a few of them that I have worked on recently.  
 
 ---
 
@@ -51,6 +51,9 @@ Therefore, we use a unsupervised machine learning technique called Association R
 <a href="/Understanding-consumer-behavior">
 <img src="images/organic.jpg?raw=true"/>
 </a>
+Predictive analytics is the use of advanced analytic techniques that leverage historical data to uncover real-time insights and to predict future events. This is a proactive approach, whereby retailers can use data from the past to predict expected sales growth, due to change in consumer behaviours and/or market trends. This can help retailers stay ahead of the curve, compete effectively and gain considerable market share. <br>
+
+We use a supervised machine learning technique (Classification- Decision Trees) to understand and explore consumer behavior to help the manager of a retail grocery chain predict the factors that influence the number of customers buying organic products from the retail store and set forth recommedations to increase the number of customers opting for organic products.
 
 ---
 [Project 3 Title](http://example.com/)
