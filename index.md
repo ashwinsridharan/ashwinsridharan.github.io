@@ -41,9 +41,9 @@ In order to find answers to these important business questions, we use a supervi
 <a href="/Customer-Acq-Ret">
 <img src="images/bank.jpg?raw=true"/>
 </a>
-Data Mining helps in the process of optimized targeting, making it easier for banks to instantly identify the high-value customer segments most likely to respond. The customer base can be further expanded by acquiring the right type of customer. Based on a report, it was seen the banks that adopted data & analytics had an increase of about 10% in new customer opportunities over a year. <br>
+Data Mining helps in the process of optimized targeting, making it easier for banks to adapt to a radically transformed business landscape in this digital era. Data builds relationships, helping banks and other businesses understand who their customers are and what their lives require. Based on a report, it was seen the banks that adopted data & analytics had an increase of about 10% in new customer opportunities over a year. <br>
 
-Therefore, we use a unsupervised machine learning technique called Association Rule Mining or otherwise known as Market Basket Analysis, to help Banks and other institutions understand their customers' individual preferences based on their historical usage patterns and recommend/ cross-sell/ up-sell other products and services.
+Therefore, we use a unsupervised machine learning technique called Association Rule Mining or otherwise known as Market Basket Analysis, to help Banks and other Financial Services organizations understand their customers' individual preferences based on historical usage patterns, and provide them with crucial insights on opportunities for product recommendations, cross-selling and up-selling.
 
 ---
 [*Exploring Consumer Behaviour using Predictive Analytics*](/Understanding-consumer-behavior)
