@@ -4,7 +4,7 @@ Hi there! Welcome to my portfolio website. <br>
 I am a graduate student pursuing Information Systems Management at Carnegie Mellon University' Dec 20, based out of Pittsburgh, PA.  <br>
 <img width= 90 src="images/cmu.png?raw=true"/> <br>
 ## Background
-Being a business technologist, I thrive at the intersection of tech and business and love straddling both worlds. <br>
+Being a business technologist, I thrive at the intersection of tech and business and love straddling both worlds. <br><br>
                    <img width= 90 src="images/sap.jpg?raw=true"/>  <img width= 70 src="images/ey.png?raw=true"/> <br>
 I spent the past Summer working with the German software major SAP as a Product Analytics Intern, focussing on their procurement software                                        solution SAP Ariba to generate actionable insights from troves of customer data, inspiring tangible business & customer outcomes. <br>
 
@@ -32,10 +32,10 @@ This project is all about analyzing crime data of Pittsburgh, Pennsylvania to di
 </a>
 The video game industry is a rapidly growing industry; in 2018, worldwide video games sales generated revenue of $134.9 billion. Since the recent COVID-19 pandemic has forced people to socially isolate and find activities to do alone, online gaming is seeing record numbers. Given this trend, companies are directing efforts in the development of new games. Game developers who want to capitalize on this growing market would benefit from knowing how best to spend their efforts in order to maximize sales.  Thus, this analysis will be aimed at answering the following business questions:
 
-> What are the factors and patterns in successful video games that result in high sales? <br>
-> How does the user and critic reviews impact the global sales? <br>
-> How does the sales vary between the Americas, Europe & Asia? <br>
-> What are some actionable insights which can be used by both sides of the aisle, creators and publishers, to enhance the user experience and increase the revenue? <br>
+> - What are the factors and patterns in successful video games that result in high sales? <br>
+> - How does the user and critic reviews impact the global sales? <br>
+> - How does the sales vary between the Americas, Europe & Asia? <br>
+> - What are some actionable insights which can be used by both sides of the aisle, creators and publishers, to enhance the user experience and increase the revenue? <br>
 
 In order to find answers to these important business questions, we use a supervised model (decision tree) & an unsupervised model (clustering) after conducting the preliminary data exploration & setting up the initial hypothesis.
 
@@ -62,11 +62,10 @@ We use a supervised machine learning technique (Classification- Decision Trees) 
 ---
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 [Project 4 Title](/pdf/sample_presentation.pdf)
+---
 
-### Category Name 2
+### Agile Project Management
 
 - [Project 1 Title](http://example.com/)
 
