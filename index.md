@@ -60,19 +60,21 @@ Predictive analytics is the use of advanced analytic techniques that leverage hi
 We use a supervised machine learning technique (Classification- Decision Trees) to understand and explore consumer behavior to help the manager of a retail grocery chain predict the factors that influence the number of customers buying organic products from the retail store and set forth recommedations to increase the number of customers opting for organic products.
 
 ---
+### Digital Transformation Strategy
 [Project 3 Title](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
+Case Study Coming Soon.
+
 [Project 4 Title](/pdf/sample_presentation.pdf)
 ---
 
 ### Agile Project Management
 
-- [Project 1 Title](http://example.com/)
+[Project 1 Title](http://example.com/)
+Case Study Coming Soon.
 
----
+--
 
-
----
 [*CERTIFICATIONS*](/cert_page)
 
         
