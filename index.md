@@ -1,7 +1,7 @@
 # P O R T F O L I O
 ## Who am I?
 Hi there! Welcome to my portfolio website. <br>
-I am a graduate student pursuing Information Systems Management at Carnegie Mellon University' 20 hailing from Chennai, India.  <br>
+I am a graduate student pursuing Information Systems Management at Carnegie Mellon University' Dec 20, based out of Pittsburgh, PA.  <br>
 ## Background
 Being a business technologist, I thrive at the intersection of tech and business and love straddling both worlds. I spent the past Summer working with the German software major SAP as a Product Analytics Intern, focussing on their procurement software solution SAP Ariba to generate actionable insights from troves of customer data, inspiring tangible business & customer outcomes. <br>
 
