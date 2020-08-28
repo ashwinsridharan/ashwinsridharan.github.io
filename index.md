@@ -36,7 +36,7 @@ The video game industry is a rapidly growing industry; in 2018, worldwide video 
 In order to find answers to these important business questions, we use a supervised model (decision tree) & an unsupervised model (clustering) after conducting the preliminary data exploration & setting up the initial hypothesis.
 
 ---
-[*Customer Acquisition & Retention through Data Mining*](/Customer-Acq-Ret)
+[*Product Recommendation through Data Mining*](/Customer-Acq-Ret)
 
 <a href="/Customer-Acq-Ret">
 <img src="images/bank.jpg?raw=true"/>
