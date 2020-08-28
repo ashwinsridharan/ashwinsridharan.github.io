@@ -26,7 +26,7 @@ This project is all about analyzing crime data of Pittsburgh, Pennsylvania to di
 <a href="/sample_page">
 <img src="images/vdogames.jpg"/>
 </a>
-The video game industry is a rapidly growing industry; in 2018, worldwide video games sales generated revenue of $134.9 billion. Since the recent COVID-19 pandemic has forced people to socially isolate and find activities to do alone, online gaming is seeing record numbers. Given this trend, companies are directing efforts in the development of new games. Game developers who want to capitalize on this growing market would benefit from knowing how best to spend their efforts in order to maximize sales.  Thus, this analysis will be aimed at answering the following business question:
+The video game industry is a rapidly growing industry; in 2018, worldwide video games sales generated revenue of $134.9 billion. Since the recent COVID-19 pandemic has forced people to socially isolate and find activities to do alone, online gaming is seeing record numbers. Given this trend, companies are directing efforts in the development of new games. Game developers who want to capitalize on this growing market would benefit from knowing how best to spend their efforts in order to maximize sales.  Thus, this analysis will be aimed at answering the following business questions:
 
 > What are the factors and patterns in successful video games that result in high sales? <br>
 > How does the user and critic reviews impact the global sales? <br>
@@ -41,6 +41,8 @@ In order to find answers to these important business questions, we use a supervi
 <a href="/Customer-Acq-Ret">
 <img src="images/bank.jpg?raw=true"/>
 </a>
+Data Mining helps in the process of optimized targeting, making it easier for banks to instantly identify the high-value customer segments most likely to respond. The customer base can further expand by acquiring the right type of customer. Based on a report, it was seen the banks that adopted data & analytics had an increase of about 10% in new customer opportunities over a year. <br>
+We use a unsupervised machine learning technique called Association Rule Mining or otherwise known as Market Basket Analysis, to help Banks and other institutions understand their customers' individual preferences based on their historical usage patterns and recommend/ cross-sell/ up-sell other products and services.
 
 ---
 [*Exploring Consumer Behaviour using Predictive Analytics*](/Understanding-consumer-behavior)
