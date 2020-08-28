@@ -1,5 +1,4 @@
 # P O R T F O L I O
-## Who am I?
 Hi there! Welcome to my portfolio website. <br>
 I am a graduate student pursuing Information Systems Management at Carnegie Mellon University' Dec 20, based out of Pittsburgh, PA.  <br>
 <img width= 90 src="images/cmu.png?raw=true"/> <br>
