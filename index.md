@@ -2,9 +2,12 @@
 ## Who am I?
 Hi there! Welcome to my portfolio website. <br>
 I am a graduate student pursuing Information Systems Management at Carnegie Mellon University' Dec 20, based out of Pittsburgh, PA.  <br>
+<img width= 90 src="images/cmu.png/"> <br>
+
 ## Background
 Being a business technologist, I thrive at the intersection of tech and business and love straddling both worlds. <br>
-I spent the past Summer working with the German software major <img width= 80 src="images/sap.jpg/"> as a Product Analytics Intern, focussing on their procurement software solution SAP Ariba to generate actionable insights from troves of customer data, inspiring tangible business & customer outcomes. <br>
+<img width= 90 src="images/sap.jpg/"> 
+I spent the past Summer working with the German software major SAP as a Product Analytics Intern, focussing on their procurement software                                        solution SAP Ariba to generate actionable insights from troves of customer data, inspiring tangible business & customer outcomes. <br>
 
 
 Prior to my masters, I was a part of the Advisory arm of the Big 4 firm Ernst & Young (EY) in India, operating in the Financial Services industry. As a Consultant, I was constantly challenged with business problems of various shapes and sizes of the EY global clientele, which I unraveled through technology & data, building innovative digital products at scale.
