@@ -58,7 +58,7 @@ Therefore, we use a unsupervised machine learning technique called Association R
 </a>
 Predictive analytics is the use of advanced analytic techniques that leverage historical data to uncover real-time insights and to predict future events. This is a proactive approach, whereby retailers can use data from the past to predict expected sales growth, due to change in consumer behaviours and/or market trends. This can help retailers stay ahead of the curve, compete effectively and gain considerable market share. <br>
 
-We use a supervised machine learning technique (Classification- Decision Trees) to understand and explore consumer behavior to help the manager of a retail grocery chain predict the factors that influence the number of customers buying organic products from the retail store and set forth recommedations to increase the number of customers opting for organic products.
+We use a supervised machine learning technique (Classification- Decision Trees) to understand and explore consumer behavior to help the manager of a retail grocery chain predict the factors that influence the number of customers buying organic products from the retail store and set forth recommendations to increase the number of customers opting for organic products.
 
 ---
 ### Digital Transformation Strategy
