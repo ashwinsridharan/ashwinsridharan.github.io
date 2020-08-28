@@ -1,3 +1,4 @@
+*To verify the certification, Please Click on the corresponding image*
 ### Agile Project Management
 <a href="https://s3.amazonaws.com/scruminc-certs/LSM-2277933"><img  src="/images/1.png" height="200" width="200"/></a>
 
