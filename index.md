@@ -12,7 +12,7 @@ I spent the past Summer working with the German software major SAP as a Product 
 
 Prior to my masters, I was a part of the Advisory arm of the Big 4 firm Ernst & Young (EY) in India, operating in the Financial Services industry. As a Consultant, I was constantly challenged with business problems of various shapes and sizes of the EY global clientele, which I unraveled through technology & data, building innovative digital products at scale.
 
-I am deeply passionate about strategizing, developing and managing projects that fall on the focal point of Business, Data, Products and People. Below, I have highlighted a few of them that I have worked on recently.  
+I am deeply passionate about strategizing, developing and managing projects that fall on the focal point of Business, Data, Products and People. Below, I have highlighted a few of my personal projects.  
 
 ---
 
