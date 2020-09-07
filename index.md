@@ -4,7 +4,7 @@ My name is Ashwin and I am a graduate student pursuing Information Systems Manag
 <a href="https://www.heinz.cmu.edu/programs/information-systems-management-master/16-month">
 <img width= 90 src="images/cmu.png?raw=true"/> 
 </a>
-## Background
+## Biography
 Being a business technologist, I thrive at the intersection of Tech & Business and love straddling both worlds. <br><br>
  <a href="https://www.sap.com/"><img width= 90 src="images/sap.jpg?raw=true"/></a>  <a href="https://www.ey.com/"><img width= 70 src="images/ey.png?raw=true"/></a> <br>
 I spent the past Summer working with the German software major SAP as a Product Analytics Intern, focussing on their procurement software                                        solution SAP Ariba to generate actionable insights from troves of customer data, inspiring tangible business & customer outcomes. <br>
@@ -26,7 +26,7 @@ This project is all about analyzing crime data of Pittsburgh, Pennsylvania to di
 
 ---
 
-[*Predicting Video Games Sales using Machine Learning*](/sample_page)
+[*Predicting Video Games Sales using Machine Learning*](/VideoGamesSales)
 
 <a href="/sample_page">
 <img src="images/vdogames.jpg"/>
