@@ -1,6 +1,6 @@
 # P O R T F O L I O
 Hi there! Welcome to my portfolio website. <br>
-My name is Ashwin and I am a graduate student pursuing Information Systems Management at Carnegie Mellon University' Dec 20, based out of Pittsburgh, PA.  <br>
+My name is Ashwin and I am a graduate student pursuing Information Systems Management at Carnegie Mellon University' Dec 20, based out of Pittsburgh, PA. Master's in Information Systems Management (MISM) at CMU is ranked as the World's Best Graduate Program with a comprehensive curriculum having a blend of Business, Technology, Data and Management courses. <br>
 <a href="https://www.heinz.cmu.edu/programs/information-systems-management-master/16-month">
 <img width= 90 src="images/cmu.png?raw=true"/> 
 </a>
