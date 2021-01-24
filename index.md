@@ -7,7 +7,7 @@ My name is Ashwin and I am a graduate student pursuing Information Systems Manag
 ## Biography
 Being a business technologist, I thrive at the intersection of Tech & Business and love straddling both worlds. <br><br>
  <a href="https://www.sap.com/"><img width= 90 src="images/sap.jpg?raw=true"/></a>  <a href="https://www.ey.com/"><img width= 70 src="images/ey.png?raw=true"/></a> <br>
-I spent the past Summer working with the German software major SAP as a Product Analytics Intern, focussing on their procurement software                                        solution SAP Ariba to generate actionable insights from troves of customer data, inspiring tangible business & customer outcomes. <br>
+I spent the Summer of 2020 working with the German software major SAP as a Product Analytics Intern, focussing on their procurement software                                        solution SAP Ariba to generate actionable insights from troves of customer data, inspiring tangible business & customer outcomes. <br>
 
 
 Prior to my masters, I was a part of the Advisory arm of the Big 4 firm Ernst & Young (EY) in India, operating in the Financial Services industry. As a Consultant, I was constantly challenged with business problems of various shapes and sizes of the EY global clientele, which I unraveled through technology & data, building innovative digital products at scale.
