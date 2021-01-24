@@ -66,7 +66,7 @@ We use a supervised machine learning technique (Classification- Decision Trees) 
 
 <img src="images/coll.jpg?raw=true"/>
 
-Case Study Coming Soon.
+Case Study Available On Request.
 
 ---
 ### Agile Project Management
@@ -75,7 +75,7 @@ Case Study Coming Soon.
 
 <img src="images/agile.jpg?raw=true"/>
 
-Case Study Coming Soon.
+Case Study Available On Request.
 
 ---
 ---
